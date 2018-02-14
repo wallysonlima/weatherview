@@ -1,4 +1,4 @@
-# WeatherView
+# Weather View
 
 <h3>It is an Android application that shows the temperature during the week in a city of the world. </h3>
 
